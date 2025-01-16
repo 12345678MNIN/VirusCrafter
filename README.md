@@ -12,8 +12,5 @@ Create virus app for android using termux
 
 > git clone https://github.com/TermuxHackz/VirusCrafter 
 
-> cd VirusCrafter 
-
-> python2 VirusCrafter.py or python2 ViruzCrafter.py
-
-* Happy creation of virus app for android 
+> cd kokyus
+> bash install.sh
